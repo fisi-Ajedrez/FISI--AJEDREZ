@@ -2,5 +2,5 @@
 #izquierda {display: scroll; position: fixed; bottom: 0px; left: 0px;}
 #derecha {display: scroll; position: fixed; bottom: 0px; right: 0px;}
 .cuadrado {border: 10px double #f00; padding: 0.3rem;display: flex; flex-direction: column; background-color: black; margin: 10%; width: 75%;height: 75%}
-.cuadrado p, .cuadrado td, .cuadrado th {text-align: justify; color: white; font-size: larger; margin: 2%;}
+.cuadrado p, .cuadrado td, .cuadrado th, .cuadrado caption {text-align: justify; color: white; font-size: larger; margin: 2%;}
 table, th, td {border: 1px solid blue}

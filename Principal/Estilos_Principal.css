@@ -1,5 +1,5 @@
 .Indice {font-size: 23px; font-family: "Cooper Black"; color: darkgray}
 .Lista {font-size: 25px; font-family: "Russo One"}
 .cuadrado {border: 10px double #f00; padding: 0.3rem;display: flex; flex-direction: column; background-color: black; margin:13% 13%; width: 75%;height: 75%}
-.cuadrado p {text-align: justify; color: white; font-size:large}
-.cuadrado ul {text-align: justify; color: white; font-size: large;}
+.cuadrado p {text-align: justify; color: white; font-size:large; margin: 1%}
+.cuadrado ul {text-align: justify; color: white; font-size: large; margin: 1%}

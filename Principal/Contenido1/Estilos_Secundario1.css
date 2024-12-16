@@ -2,4 +2,4 @@
 #izquierda {display: scroll; position: fixed; bottom: 0px; left: 0px;}
 #derecha {display: scroll; position: fixed; bottom: 0px; right: 0px;}
 .cuadrado {border: 10px double #f00; padding: 0.3rem;display: flex; flex-direction: column; background-color: black; margin:13% 13%; width: 75%;height: 75%}
-.cuadrado p {text-align: justify; color: white;}
+.cuadrado p {text-align: justify; color: white; font-size: larger; margin: 2%;}

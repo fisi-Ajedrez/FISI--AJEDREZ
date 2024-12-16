@@ -1,0 +1,4 @@
+.Titulo {text-align: center; }
+.Link {font-size: 25px; font-family: "Russo One"}
+#izquierda {display: scroll; position: fixed; bottom: 0px; left: 0px;}
+#derecha {display: scroll; position: fixed; bottom: 0px; right: 0px;}
